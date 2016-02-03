@@ -1,4 +1,4 @@
-float MAX = 1024;
+int MAX = 1024;
 float B = 3435;
 float T0 = 298.15;
 float R0 = 10.0;
