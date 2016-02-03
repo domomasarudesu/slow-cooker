@@ -42,6 +42,7 @@ float calcTemperature(float resistance) {
 }
 
 void cookWithLove(float temperature) {
+  //  なんとなくLEDをチカチカさせる
   digitalWrite(13, HIGH);
   delay(100);
   digitalWrite(13, LOW);
